@@ -1,4 +1,5 @@
-!pip install qrcode 
+#qr code
+!pip install qrcode
 import pyqrcode
 from pyqrcode import QRCode
 s="www.gopythontutorials.wordpress.com"
